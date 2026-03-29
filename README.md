@@ -18,5 +18,5 @@ The Excel file includes the following sheets:
 - **pivot_table** – Exploratory data analysis using pivot tables
 - **dashboard** – Interactive dashboard for visualizing key insights
 
-## Technologies
+## Tools & Technologies
 - Microsoft Excel
