@@ -1,6 +1,6 @@
-# Bike Sales Analysis Project
+# Bike Sales Analysis
 ---
-## Project Overview
+## Overview
 This repository contains an end-to-end data analysis project developed in Microsoft Excel.
 
 ## Project Structure
